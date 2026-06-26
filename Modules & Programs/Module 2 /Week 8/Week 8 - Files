@@ -1,0 +1,37 @@
+# Aspire Leadership Program | Master Repository
+
+This repository serves as the centralized development and documentation hub for the final core blocks of the Aspire Leadership Program: **Week 7 (Communicating for Impact)** and **Week 8 (Leading in Professional Spaces)**. It houses all case study solutions, architectural stakeholder mapping models, technical personal statements, and program reflections.
+
+---
+
+## 📂 Master Repository Architecture
+
+```text
+├── README.md                           # Global repository index & map
+├── week_07_communicating_for_impact/   # Week 7 Core Module
+│   ├── README.md                       # Week 7 specific summary
+│   ├── assignments/
+│   │   ├── assignment_2_stakeholder_matrix.md
+│   │   └── assignment_3_discussion_7_stakeholders.md
+│   ├── quizzes/
+│   │   └── week7_mini_quiz_1.md
+│   └── masterclasses/
+│       ├── 2026-06-10_astronomical_observatories.md
+│       ├── 2026-06-12_career_path_public_health.md
+│       └── 2026-06-12_economic_inequality.md
+│
+└── week_08_leading_in_professional_spaces/ # Week 8 Core Module
+    ├── README.md                       # Week 8 specific summary
+    ├── reflective_exercises/
+    │   ├── assignment_1_smart_goal_check.md
+    │   └── assignment_2_ikigai_framework.md
+    ├── career_assets/
+    │   ├── assignment_6_personal_statement.md
+    │   ├── rubrics/
+    │   │   ├── cover_letter_rubric.md
+    │   │   └── personal_statement_rubric.md
+    │   └── peer_reviews/
+    │       └── assignment_6.4_discord_feedback.md
+    └── program_wrap_up/
+        ├── end_of_program_survey.md
+        └── post_program_readiness.md
