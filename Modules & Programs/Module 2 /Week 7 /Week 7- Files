@@ -1,0 +1,19 @@
+# Aspire Leadership Program | Week 7: Communicating for Impact
+
+This directory contains the coursework, assignments, case study reflections, and peer discussion notes for **Week 7 (Communicating for Impact)** of the Aspire Leadership Program. The core focus of this module is synthesizing project proposals (from Weeks 4 and 5) into compelling narratives to build trust, secure stakeholder buy-in, and maximize project impact.
+
+---
+
+## 📂 Repository Structure
+
+```text
+├── README.md               # Master documentation for Week 7
+├── assignments/            # Core deliverables and written assignments
+│   ├── assignment_2_stakeholder_matrix.md
+│   └── assignment_3_discussion_post.md
+├── quizzes/                # Module quizzes and knowledge checks
+│   └── week7_mini_quiz_1.md
+└── masterclasses/          # Notes and key takeaways from live sessions
+    ├── 2026-06-10_astronomical_observatories.md
+    ├── 2026-06-12_career_path_public_health.md
+    └── 2026-06-12_economic_inequality.md
